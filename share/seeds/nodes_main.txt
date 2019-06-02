@@ -1,0 +1,3 @@
+# List of Htcoin IPv4 nodes sorted by 30 day availability, block height and version.
+
+45.195.144.53:9487
